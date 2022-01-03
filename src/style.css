@@ -1,0 +1,15 @@
+.title{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.red{
+    color: beige;
+}
+.imageStyle{
+    border-radius: 10px;
+    width:250px;
+    height:300px;
+    border-radius: 15px;
+    box-shadow:5px 10px 18px rgb(63, 62, 62);
+    margin-bottom: 20px;
+}
